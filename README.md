@@ -1,5 +1,6 @@
 # Expo File System Crash
 
+Open issue on the expo github is [here](https://github.com/expo/expo/issues/22771)
 Issue: If `expo-file-system` is in the middle of a download when the app refreshes then the app crashes. Only happens on iOS when using the `jsc` javascript engine.
 
 ## Setup
